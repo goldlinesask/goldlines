@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"0FAAA,2BAEe,4BAAM","file":"component---src-pages-index-js-8702180f6972ba3bef1b.js","sourcesContent":["import React from \"react\"\n\nexport default () => <div>GABY AND TAY GONNA GET YOU PAID!</div>\n"],"sourceRoot":""}
