@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{187:function(n,e,t){"use strict";t.r(e);var u=t(0),a=t.n(u);e.default=function(){return a.a.createElement("div",null,"TAY AND GABY WILL GET YOU PAID!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-37d5ede19ec6d06c93d8.js.map
